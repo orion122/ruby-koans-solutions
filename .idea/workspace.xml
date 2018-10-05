@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a24581e0-f79f-4b5d-b18f-3cbca7aa6107" name="Default Changelist" comment="" />
+    <list default="true" id="a24581e0-f79f-4b5d-b18f-3cbca7aa6107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.rdoc" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
           <entry key="Rakefile" value="2" />
           <entry key="path_progress" value="1" />
           <entry key="rb" value="11" />
-          <entry key="rdoc" value="1" />
+          <entry key="rdoc" value="2" />
           <entry key="txt" value="3" />
           <entry key="watchr" value="1" />
         </counts>
@@ -29,7 +31,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="RDOC" value="1" />
+          <entry key="RDOC" value="2" />
           <entry key="Ruby" value="13" />
         </counts>
       </usages-collector>
@@ -58,6 +60,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -83,6 +88,7 @@
     <option name="width" value="1360" />
     <option name="height" value="988" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -132,12 +138,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538732531527</updated>
-      <workItem from="1538732532703" duration="7257000" />
+      <workItem from="1538732532703" duration="7532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7257000" />
+    <option name="totallyTimeSpent" value="7532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -157,7 +163,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2659698" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.26658905" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -198,11 +204,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2367" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_asserts.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -246,6 +247,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
